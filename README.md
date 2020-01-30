@@ -1,7 +1,7 @@
-#include <avr/io.h>
-#include <util/delay.h>
-#define MOSI PB5
-#define SCK PB7
+#include <avr/io.h>                               
+#include <util/delay.h>                  
+#define MOSI PB5                          
+#define SCK PB7                          
 #define SS PB4
 #define MISO PB6
 
